@@ -12,8 +12,7 @@ Install the dependencies:
 
 To use the project, follow these steps:
 
-Run the script: python awesome.py
-Provide the required arguments: --input /path/to/input/file --output /path/to/output/file
+
 
 # Known issues
 There is an issue with the input parser when reading in certain file formats.
